@@ -20,4 +20,4 @@ jobs:
           java-version: '17'
 
       - name: Build release APK
-        run: cd android && chmod +x ./gradlew && ./gradlew assembleRelease
+        run: chmod +x ./gradlew && ./gradlew assembleRelease
