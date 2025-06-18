@@ -1,2 +1,2 @@
 # Victoria789
-www.victoria789.club
+http://victoria789.club
