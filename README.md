@@ -1,5 +1,14 @@
-# Victoria789
-http://victoria789.club
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/Victoria789/main/assets/logo.png" alt="VICTORIA789 Logo" width="200"/>
+</p>
 
-![logo](https://github.com/user-attachments/assets/1e875aba-99b0-4e42-b783-fdeb79a05601/1000013076)
-![logo1](https://github.com/user-attachments/assets/d33d7193-4413-4e3a-b742-70a40b6eeac4/logo1)
+<h1 align="center">VICTORIA789.CLUB</h1>
+
+<p align="center">
+  Professional. Exclusive. Reliable.
+</p>
+
+---
+
+📱 แอปพลิเคชัน Android | 🌐 [VICTORIA789.CLUB](http://victoria789.club)  
+🚀 Powered by automated CI/CD, premium design & marketing precision.
